@@ -1,0 +1,429 @@
+{
+    "_id": "ffba500e-5b2d-4c3a-b155-ee4c8d23ee82",
+    "email": "robertocardosoneto@gmail.com",
+    "reg_date": "2020-10-05 15:03:54.022000",
+    "update_date": "2023-05-24 00:00:53.841000",
+    "privacy_consent": "True",
+    "media_consent": "True",
+    "send_R42": "True",
+    "cpf": "32628001802",
+    "mobile_phone_fb": "5511987882225",
+    "mobile_phone_go": "+5511987882225",
+    "name": "Roberto",
+    "surname": "Neto",
+    "birth_date": "1984-06-07",
+    "gender": "M",
+    "country": "Brasil",
+    "state": "São Paulo",
+    "city": "São Paulo",
+    "zipcode": "04728020",
+    "district": "Jardim Caravelas",
+    "address": "Rua do Carreiro de Pedra, 111 - ap 54a",
+    "profession": null,
+    "sources": [
+        {
+            "_id": "72b3c883-d57f-4200-82d4-b3f5e6375846",
+            "source_title": "heineken00",
+            "source_category": "brand_website",
+            "reg_date": "2020-10-05 15:03:58.080000"
+        },
+        {
+            "_id": "fedf4300-47c8-4126-81b2-becb46c491ed",
+            "source_title": "devassa",
+            "source_category": "brand_website",
+            "reg_date": "2020-11-24 11:58:19.228000"
+        },
+        {
+            "_id": "5f06ff93-283e-47fd-8c3b-5f0c92e32633",
+            "source_title": "barmonizacao",
+            "source_category": "promotions_online",
+            "reg_date": "2020-12-23 15:47:49.044000"
+        },
+        {
+            "_id": "ff0df228-a590-458c-893f-3ee07b455e58",
+            "source_title": "bbb",
+            "source_category": "promotions_online",
+            "reg_date": "2021-02-11 17:23:52.868000"
+        },
+        {
+            "_id": "6345d564-0703-4b33-ae47-2d45d6792151",
+            "source_title": "myheinekenapp",
+            "source_category": "brand_app",
+            "reg_date": "2021-04-20 19:44:33.960000"
+        },
+        {
+            "_id": "8d03af4d-cca8-4366-bbb2-88916b553a48",
+            "source_title": "ofertas_esb",
+            "source_category": "promotions_online",
+            "reg_date": "2021-07-08 14:15:24.762000"
+        },
+        {
+            "_id": "33c1f3eb-989e-460b-b77e-89a2024c725e",
+            "source_title": "amstel_libertadores_2021",
+            "source_category": "promotions_online",
+            "reg_date": "2021-09-22 16:34:54.106000"
+        },
+        {
+            "_id": "27ff204c-b30a-45fa-8713-7812aea98048",
+            "source_title": "amstel",
+            "source_category": "brand_website",
+            "reg_date": "2021-12-23 14:04:14.464000"
+        },
+        {
+            "_id": "8265890e-9354-45c2-8544-b75f6051278f",
+            "source_title": "eisenbahn_zenklub",
+            "source_category": "promotions_online",
+            "reg_date": "2022-03-18 14:22:44.695000"
+        },
+        {
+            "_id": "b4334e60-215a-45a4-b42a-34d14097a276",
+            "source_title": "eisenbahn_top_chef",
+            "source_category": "promotions_online",
+            "reg_date": "2022-03-18 15:12:52.636000"
+        },
+        {
+            "_id": "fa17ee80-8a30-4152-8860-6cc6b1693da2",
+            "source_title": "eisenbahn_novidades",
+            "source_category": "brand_website",
+            "reg_date": "2022-06-13 18:03:14.372000"
+        },
+        {
+            "_id": "72f23dc2-1678-4cd5-9f99-8f9f45a316bb",
+            "source_title": "amstel_bbb_2021",
+            "source_category": "promotions_online",
+            "reg_date": "2022-06-15 19:08:55.155000"
+        },
+        {
+            "_id": "36937577-6e76-42f8-8d63-76bce5885387",
+            "source_title": "devassa_",
+            "source_category": "brand_website",
+            "reg_date": "2022-06-16 12:08:18.426000"
+        },
+        {
+            "_id": "defd7435-8f91-4716-a603-965e16f1e3a2",
+            "source_title": "tiger",
+            "source_category": "brand_website",
+            "reg_date": "2022-06-16 12:21:24.551000"
+        },
+        {
+            "_id": "c7d2f223-7b2c-45c9-9b06-518e4b495c66",
+            "source_title": "eisenbahn_ofertas",
+            "source_category": "promotions_online",
+            "reg_date": "2022-06-17 15:12:32.346000"
+        },
+        {
+            "_id": "8a08143f-7da6-42bb-81e6-be62f76f5f8d",
+            "source_title": "heineken_gd",
+            "source_category": "promotions_online",
+            "reg_date": "2022-06-23 16:08:10.723000"
+        },
+        {
+            "_id": "237b2004-637c-4ef0-b71d-42fc4dfe59b5",
+            "source_title": "devassa_cashback",
+            "source_category": "promotions_online",
+            "reg_date": "2022-06-29 12:01:21.944000"
+        },
+        {
+            "_id": "870f2a63-d2f5-4de6-9a79-c0ba4ddf9d6c",
+            "source_title": "amstel_brand_website",
+            "source_category": "brand_website",
+            "reg_date": "2022-07-14 20:35:46.302000"
+        },
+        {
+            "_id": "7101563c-0526-4e98-af29-6b7e44ba7759",
+            "source_title": "baden_home_bar",
+            "source_category": "promotions_online",
+            "reg_date": "2022-07-18 16:24:47.499000"
+        },
+        {
+            "_id": "d3d646e6-6d30-4fe8-ad40-01f74ef0e3db",
+            "source_title": "heineken_myhnkapp",
+            "source_category": "brand_app",
+            "reg_date": "2022-07-19 14:16:56.934000"
+        },
+        {
+            "_id": "f2538006-b472-48ab-bede-d65cc6cd26ae",
+            "source_title": "lagunitas_ipaday_2022",
+            "source_category": "promotions_online",
+            "reg_date": "2022-07-20 23:07:18.551000"
+        },
+        {
+            "_id": "1aac052b-1e3f-4b09-bf7c-10aa0769d502",
+            "source_title": "heineken_rockinrio_promo_2022",
+            "source_category": "promotions_online",
+            "reg_date": "2022-07-25 17:56:59.925000"
+        },
+        {
+            "_id": "a86edb79-a9de-4601-9e8f-0308df9dcbda",
+            "source_title": "tiger_singapura_promo_2022",
+            "source_category": "promotions_online",
+            "reg_date": "2022-07-25 18:29:48.781000"
+        },
+        {
+            "_id": "84d0eaeb-febc-4cc0-a7f0-3a8970e699e6",
+            "source_title": "devassa_novidades",
+            "source_category": "brand_website",
+            "reg_date": "2022-07-27 12:20:38.898000"
+        },
+        {
+            "_id": "53a46c8d-7c42-442b-a39b-b3cb67d4e895",
+            "source_title": "eisenbahn_20anos",
+            "source_category": "promotions_online",
+            "reg_date": "2022-07-27 20:49:47.959000"
+        },
+        {
+            "_id": "db4f1eb7-dcd0-4775-851b-ea0da23a8251",
+            "source_title": "amstel_breve_festival_2022",
+            "source_category": "brand_website",
+            "reg_date": "2022-08-16 11:47:12.355000"
+        },
+        {
+            "_id": "ae8eed95-1d76-4a35-90e2-bad98c7435da",
+            "source_title": "mercadolivre",
+            "source_category": "partner_website",
+            "reg_date": "2022-08-24 13:16:06.170000"
+        },
+        {
+            "_id": "3151571f-c6a5-4c11-952c-d0af844514d2",
+            "source_title": "badenbaden_novidades",
+            "source_category": "brand_website",
+            "reg_date": "2022-09-29 18:23:46.554000"
+        },
+        {
+            "_id": "1c22b262-56a2-4681-b8a4-9ab78902453d",
+            "source_title": "heineken_tribotrip",
+            "source_category": "promotions_online",
+            "reg_date": "2022-10-31 13:17:54.558000"
+        },
+        {
+            "_id": "3979b0d0-ca46-452e-9a98-200767ea79ce",
+            "source_title": "heineken_ingressosF1",
+            "source_category": "promotions_online",
+            "reg_date": "2022-10-31 13:19:31.854000"
+        },
+        {
+            "_id": "7f6307b5-6324-4b28-964f-5fc234286bcb",
+            "source_title": "amstel_conteudos_recomendados",
+            "source_category": "brand_website",
+            "reg_date": "2022-11-09 18:41:04.534000"
+        },
+        {
+            "_id": "cdedf5bd-8f76-4d08-b22b-2b7c0462199b",
+            "source_title": "tiger_conteudos_recomendados",
+            "source_category": "brand_website",
+            "reg_date": "2022-11-09 18:41:52.201000"
+        },
+        {
+            "_id": "e5242557-c803-41ec-9074-4e35ef161d42",
+            "source_title": "amstel_cadastro_de_novidades",
+            "source_category": "brand_website",
+            "reg_date": "2023-01-17 15:07:47.695000"
+        },
+        {
+            "_id": "e4968001-0eca-40fd-b32d-9978de544160",
+            "source_title": "amstel_bbb23",
+            "source_category": "promotions_online",
+            "reg_date": "2023-01-18 01:38:23.615000"
+        },
+        {
+            "_id": "46fa00c9-f52c-4fcb-9d8f-612db1d3c22a",
+            "source_title": "eisenbahn_einsebahn_sampling_daki",
+            "source_category": "brand_website",
+            "reg_date": "2023-02-06 18:45:46.762000"
+        },
+        {
+            "_id": "fbfd150a-fb9d-45cf-b560-23e25425e905",
+            "source_title": "eisenbahn_craftgaten_2023",
+            "source_category": "promotions_online",
+            "reg_date": "2023-02-16 13:57:50.350000"
+        },
+        {
+            "_id": "c00d0336-783a-4276-9880-c0f5523ad313",
+            "source_title": "devassa_cadastro_abadá-1400",
+            "source_category": "brand_website",
+            "reg_date": "2023-02-17 14:23:49.941000"
+        },
+        {
+            "_id": "b69e8c26-ca82-4118-ae4b-9c39fb4c4706",
+            "source_title": "Heineken_player00",
+            "source_category": "promotions_online",
+            "reg_date": "2023-03-17 11:17:02.675000"
+        },
+        {
+            "_id": "df10c358-cbeb-42a7-bc26-bb8b7e648707",
+            "source_title": "devassa_seu_cadastro_foi_realizado.",
+            "source_category": "brand_website",
+            "reg_date": "2023-03-20 17:27:25.146000"
+        },
+        {
+            "_id": "4734303e-33e9-46aa-b757-64ba65760d29",
+            "source_title": "heineken_clube_mercado_livre",
+            "source_category": "partner_website",
+            "reg_date": "2023-03-29 11:09:29.569000"
+        },
+        {
+            "_id": "608ddb8f-fa8f-43bb-af86-2d1b45ada159",
+            "source_title": "tiger_",
+            "source_category": "brand_website",
+            "reg_date": "2023-03-30 13:43:37.795000"
+        },
+        {
+            "_id": "12d4ecdb-342c-421b-9d9b-eb115e5e51d2",
+            "source_title": "craft_mercadolivre",
+            "source_category": "partner_website",
+            "reg_date": "2023-03-31 19:20:36.401000"
+        },
+        {
+            "_id": "8c97da21-96bb-4911-8d52-99d9a7b317a2",
+            "source_title": "amstel_masterclass",
+            "source_category": "promotions_online",
+            "reg_date": "2023-04-26 14:43:41.158000"
+        },
+        {
+            "_id": "73df342b-4e4f-4fed-94a4-09bebf0d3ad9",
+            "source_title": "amstel_mybar",
+            "source_category": "brand_website",
+            "reg_date": "2023-05-24 00:00:53.818000"
+        }
+    ],
+    "hashed_information": {
+        "email_hash": "cd991aa4311f36e2c431bcb15d5299161adee1719afa038e6613bee40a12e118",
+        "cpf_hash": "5b3f3ad473a8614571b57e094c6066d03ba22152b7b3c99eae757ad88cd6b6c4",
+        "mobile_phone_hash_fb": "9ea87f9ad3cec4c9d1bad41781a624228cca0c6f8cb3674785c9d839af3b4871",
+        "mobile_phone_hash_go": "72b4082bafa10101b367e4d298bd2e98a3a5aa2f0170f20d068aaa1646699ff2"
+    },
+    "behaviour": [
+        {
+            "type": "brand_interest",
+            "value": "heineken00"
+        },
+        {
+            "type": "quiz_drinker",
+            "value": "deboista"
+        },
+        {
+            "type": "quiz_drinker",
+            "value": "motorista"
+        },
+        {
+            "type": "brand_interest",
+            "value": "devassa"
+        },
+        {
+            "type": "brand_interest",
+            "value": "eisenbahn"
+        },
+        {
+            "type": "brand_interest",
+            "value": "amstel"
+        },
+        {
+            "type": "brand_interest",
+            "value": "heineken"
+        },
+        {
+            "type": "brand_interest",
+            "value": "tiger"
+        },
+        {
+            "type": "cadastro",
+            "value": "novidades"
+        },
+        {
+            "type": "brand_interest",
+            "value": "baden"
+        },
+        {
+            "type": "brand_interest",
+            "value": "Heineken"
+        },
+        {
+            "type": "brand_interest",
+            "value": "badenbaden"
+        },
+        {
+            "type": "",
+            "value": "_devassa"
+        },
+        {
+            "type": "brand_interest",
+            "value": "craft"
+        },
+        {
+            "type": "cadastro",
+            "value": "novidades_amstel"
+        },
+        {
+            "type": "comqualgenerovoceseidentifica",
+            "value": "masculino_eisenbahn"
+        },
+        {
+            "type": "ondevoceestavaquandobebeucervejapelaultimavez",
+            "value": "em_casa_com_amigos_e_familiares_eisenbahn"
+        },
+        {
+            "type": "oquemelhordescreveoquevoceestavafazendonomomento",
+            "value": "estava_em_um_encontro_informal_com_os_amigos_eisenbahn"
+        },
+        {
+            "type": "quantaspessoasestavamcomvoce",
+            "value": "2_ou_mais_pessoas_eisenbahn"
+        },
+        {
+            "type": "porquevocedecidiutomarcervejanestedia",
+            "value": "relaxar_eisenbahn"
+        },
+        {
+            "type": "cadastrar",
+            "value": "devassa_abadá"
+        },
+        {
+            "type": "oquemelhordescreveoquevoceestavafazendonomomento",
+            "value": "resolvi_beber_após_o_trabalho_eisenbahn"
+        },
+        {
+            "type": "porquevocedecidiutomarcervejanestedia",
+            "value": "esquecer_as_preocupações_e_o_estresse_da_rotina_eisenbahn"
+        },
+        {
+            "type": "zipcode",
+            "value": "04728020_devassa"
+        },
+        {
+            "type": "personaddresscity",
+            "value": "são_paulo_devassa"
+        },
+        {
+            "type": "personaddresscomplement",
+            "value": "ap_54a_devassa"
+        },
+        {
+            "type": "autodeclaracaoetnica",
+            "value": "branco_devassa"
+        },
+        {
+            "type": "gender",
+            "value": "homemcis_devassa"
+        },
+        {
+            "type": "sexualorientation",
+            "value": "heterossexual_devassa"
+        },
+        {
+            "type": "plataformatudonosso",
+            "value": "souconsumidor_devassa"
+        },
+        {
+            "type": "plataformatudonosso",
+            "value": "souartista_devassa"
+        },
+        {
+            "type": "brand_interest",
+            "value": "category_preference"
+        },
+        {
+            "type": "dgmax",
+            "value": "638182244200482535"
+        }
+    ]
+}
